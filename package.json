@@ -1,0 +1,15 @@
+{
+  "bugs": "https://github.com/wallot-us/wallot-cli/issues",
+  "description": "Pending",
+  "homepage": "https://github.com/wallot-us/wallot-cli",
+  "keywords": [],
+  "license": "ISC",
+  "main": "lib/wallot-cli.js",
+  "name": "wallot-cli",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wallot-us/wallot-cli.git"
+  },
+  "scripts": {},
+  "version": "1.0.0-alpha"
+}
